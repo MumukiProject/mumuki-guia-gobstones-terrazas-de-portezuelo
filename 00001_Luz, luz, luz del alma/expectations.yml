@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:PrenderLuz
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:program
+  inspection: Not:UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderLuz
+  inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderLuz
+  inspection: Uses:Sacar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderLuz
+  inspection: Uses:Poner
