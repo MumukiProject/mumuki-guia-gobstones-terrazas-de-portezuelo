@@ -1,0 +1,1 @@
+En este ejercicio hay diferentes tableros para probar tu solución, la cual debe funcionar en todos ellos. Para ver los diferentes tableros tenés que apretar la flechita negra ► que está al lado del mismo. 
