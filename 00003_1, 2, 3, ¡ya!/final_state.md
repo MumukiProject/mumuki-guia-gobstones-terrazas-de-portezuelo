@@ -1,4 +1,4 @@
-<gs-board without-header> GBB/1.0
+<gs-board> GBB/1.0
 size 6 4
 cell 1 3 Verde 1 
 cell 3 3 Verde 1 
@@ -14,7 +14,7 @@ cell 3 0 Verde 1
 cell 5 0 Verde 1 
 head 0 0
  </gs-board>
-<gs-board without-header> GBB/1.0
+<gs-board> GBB/1.0
 size 6 4
 cell 1 3 Verde 1 
 cell 3 3 Verde 1 
