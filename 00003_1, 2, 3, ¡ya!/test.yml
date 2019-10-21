@@ -3,9 +3,9 @@ check_head_position: false
 examples:
  - initial_board: |
      GBB/1.0
-     size 2 2
-     head 0 0
+     size 6 4
+     head NaN NaN
    final_board: |
      GBB/1.0
-     size 2 2
-     head 0 0
+     size 6 4
+     head NaN NaN
