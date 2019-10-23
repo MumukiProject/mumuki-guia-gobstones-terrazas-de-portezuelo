@@ -1,5 +1,7 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-terrazas-de-portezuelo/master/assets/attires/config_1571418912973.json"/>
 
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-terrazas-de-portezuelo/master/assets/attires/config_1571865217390.json"></gs-attire>
+
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-terrazas-de-portezuelo/master/assets/toolbox_1571757810731.xml"/>
 
 Como ya dijimos, Terrazas de Portezuelo son 3 edificios, uno al lado del otro. ¡Prendamos las luces de ellos!
