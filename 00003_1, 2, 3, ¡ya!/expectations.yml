@@ -9,6 +9,3 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
   inspection: Not:Uses:PrenderLuz
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Intransitive:program
-  inspection: Not:Uses:Mover
