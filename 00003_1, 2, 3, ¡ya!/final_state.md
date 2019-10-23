@@ -1,5 +1,5 @@
 <gs-board> GBB/1.0
-size 6 4
+size 7 4
 cell 1 3 Verde 1 
 cell 3 3 Verde 1 
 cell 5 3 Verde 1 
