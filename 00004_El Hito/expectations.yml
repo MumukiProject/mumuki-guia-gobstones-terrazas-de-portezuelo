@@ -9,9 +9,3 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: CambiarColorDeLuz
   inspection: UsesIf
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: CambiarColorDeLuz
-  inspection: Uses:Mover
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: CambiarColorDeLuz
-  inspection: Uses:Poner
