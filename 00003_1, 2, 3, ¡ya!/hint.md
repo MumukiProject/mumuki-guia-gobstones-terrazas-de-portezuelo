@@ -1,0 +1,1 @@
+Tené en cuenta que el programa va a empezar en el casillero de abajo a la derecha.
